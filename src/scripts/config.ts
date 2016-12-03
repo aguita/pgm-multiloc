@@ -1,11 +1,11 @@
 export class config {
-  public static googleMapsKey: string = 'AIzaSyD8WtOa0Mw_lpppdbXQrORnabd9LK3bri8';
+  public static googleMapsKey: string = 'AIzaSyDscGn_jxrX69';
   public static latitude: number = 38.624691;
   public static longitude: number = -90.184776;
   public static zoom: number = 12;
   public static leaps: number = 4;
   public static steps: number = 10;
-  public static maxSteps: number = 25;
+  public static maxSteps: number = 40;
 
   public static os: string = 'windows';
   public static workers: number = 4;
